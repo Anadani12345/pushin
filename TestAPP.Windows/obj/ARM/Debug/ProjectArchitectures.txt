@@ -1,0 +1,1 @@
+C:\Users\Ahmad\documents\visual studio 2015\Projects\TestAPP\TestAPP\TestAPP.Windows\TestAPP.Windows.csproj;arm

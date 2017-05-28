@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-F7B36FP</Machine>
+    <WindowsUser>Ahmad</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>63cb3bca-49f0-4e4d-a971-6ebcdcc20e2f</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Ahmad</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Ahmad\documents\visual studio 2015\Projects\TestAPP\TestAPP\TestAPP.Windows\obj\ARM\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Ahmad\documents\visual studio 2015\Projects\TestAPP\TestAPP\TestAPP.Windows\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Ahmad\documents\visual studio 2015\Projects\TestAPP\TestAPP\TestAPP.Windows\bin\ARM\Debug\TestAPP.Windows.exe">
+      <PackagePath>TestAPP.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmad\documents\visual studio 2015\Projects\TestAPP\TestAPP\TestAPP.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmad\documents\visual studio 2015\Projects\TestAPP\TestAPP\TestAPP.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmad\documents\visual studio 2015\Projects\TestAPP\TestAPP\TestAPP.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmad\documents\visual studio 2015\Projects\TestAPP\TestAPP\TestAPP.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmad\documents\visual studio 2015\Projects\TestAPP\TestAPP\TestAPP.Windows\Help\REDIST.TXT">
+      <PackagePath>Help\REDIST.TXT</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmad\documents\visual studio 2015\Projects\TestAPP\TestAPP\TestAPP.Windows\bin\ARM\Debug\TestAPP.Windows.xr.xml">
+      <PackagePath>TestAPP.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmad\documents\visual studio 2015\Projects\TestAPP\TestAPP\TestAPP.Windows\bin\ARM\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmad\documents\visual studio 2015\Projects\TestAPP\TestAPP\TestAPP.Windows\bin\ARM\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmad\documents\visual studio 2015\Projects\TestAPP\TestAPP\TestAPP.Windows\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
